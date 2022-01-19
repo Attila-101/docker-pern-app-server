@@ -17,6 +17,4 @@ Make sure that you have yarn installed and both the client and the server are ru
 
 ## Screenshots of the server, data output and app
 
-<img src="images/server.jpg">
-<img src="images/output.jpg">
-<img src="images/app.jpg">
+[Images](https://github.com/Attila-101/docker-pern-app#screenshots-of-the-server-data-output-and-app)
